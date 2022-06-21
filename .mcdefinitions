@@ -1,0 +1,5 @@
+function=test
+function=notify
+function=Action
+tag=admin
+tag=detected1
