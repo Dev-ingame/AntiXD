@@ -1,0 +1,1 @@
+clear @a[tag=detected1] minecraft:spawn_egg 51 5555555
