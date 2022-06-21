@@ -1,0 +1,30 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "BRUH",
+        "name": "AnitXD",
+        "uuid": "aebd99fa-ea3c-4de8-bd08-91d08e9c747e",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 18, 0]
+    },
+    "modules": [
+        {
+            "description": "Example behavior pack module",
+            "type": "data",
+            "uuid": "fa6e90c8-c925-460f-8155-c8a60b753caa",
+            "version": [1, 0, 0]
+        },
+        {
+            "description": "Example client scripts module",
+            "type": "client_data",
+            "uuid": "c05a992e-482a-455f-898c-58bbb4975e47",
+            "version": [1, 0, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
+            "version": [1, 0, 0]
+        }
+    ]
+}
